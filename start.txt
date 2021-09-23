@@ -1,0 +1,1 @@
+\ccminer.exe --diff-factor=256 --algo=lbry --url=stratum+tcp://120.79.193.58:3333 --user=CGSLLC.LBCBitch001 name
